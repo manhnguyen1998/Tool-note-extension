@@ -58,11 +58,6 @@ module.exports = {
           context: "public",
         },
         {
-          from: "./bootstrap",
-          to: `../${BUILD_DIR_NAME}/bootstrap`,
-          context: "public",
-        },
-        {
           from: "./popup.html",
           to: `../${BUILD_DIR_NAME}/popup.html`,
           context: "public",

@@ -6,6 +6,7 @@
   .root {
     height: 600px;
     width: 480px;
+    background-color: var(--caramel);
     /* display: flex;
     justify-content: center;
     align-items: center;
